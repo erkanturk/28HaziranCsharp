@@ -26,7 +26,7 @@ namespace _12_Switch_Case
             Console.WriteLine("Aradığız şehrin Adını giriniz Plakasını bulunuz");
             string sehir = Console.ReadLine();
 
-            switch (sehir)
+            switch (sehir)    
             {
                 case "istanbul": Console.WriteLine($"{sehir} plakası 34"); break;
                 case "izmir": Console.WriteLine($"{sehir} plakası 35"); break;
