@@ -110,14 +110,56 @@
             //    Console.WriteLine(i);
             //}
             #endregion
-            int a = 5;
-            int b = ++a;
-            int c = a++;
+            //int a = 5;
+            //int b = ++a;
+            //int c = a++;
 
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            Console.WriteLine(c);
-            Console.WriteLine(a);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+            //Console.WriteLine(c);
+            //Console.WriteLine(a);
+
+            //int tekToplam = 0;
+            //int ciftToplam = 0;
+
+            //for (int i = 1; i <= 100; i++)
+            //{
+            //    if (i % 2 == 0)
+            //    {
+            //        ciftToplam += i;
+            //    }
+            //    else
+            //    {
+            //        tekToplam += i;
+            //    }
+            //}
+            //Console.WriteLine("Tek toplam: " + tekToplam);
+            //Console.WriteLine("Çift toplam: "+ciftToplam);
+
+            //char metin = 'z';
+            //for (char i = 'A'; i <= metin; i++)//Ascii table da rakamsal karşılıkları bulunduğu için char karakterler döngüde koşul olarak kullanılabilir.
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //for (string i = "A"; i < 10; i++) döngülerde metinsel bir değerle karşılaştırma yapılamaz bu yapıda rakamsal değer taşıyan veri tipi olmalıdır.
+            //{
+
+            //}
+
+            //100 ila 1 arasında 3 e tam bölünen sayıları ekrana yazdıran döngüyü yazınız 100 den başlayarak 1 e kadar gelecek ve 
+            //3 ün katları ekrana yazılacak.
+
+            //int toplam = 0;
+            //for (int i = 100; i >= 1; i--)
+            //{
+            //    if (i % 3 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //        toplam += i;
+            //    }
+            //}
+            //Console.WriteLine(toplam);
         }
     }
 }
